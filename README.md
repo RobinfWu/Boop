@@ -10,7 +10,7 @@ Boop is played on a 6x6 board (the bed) where each player starts out with 8 kitt
 
 ![image](https://github.com/RobinfWu/Boop/assets/8204576/21cc7583-481f-4dfc-ba89-9e2f2f69c04c)
 
-The signature mechanic of this game to boop neighboring kittens - regardless if it's yours or the opponent's. Any kitten placed on the board will boop any neighboring kitten one square away, including horizontal, vertical, and diagonal. This mechanic does not cascade.
+The signature mechanic of this game is to **boop** neighboring kittens - regardless if it's yours or the opponent's. Any kitten placed on the board will boop any neighboring kitten one square away, including horizontal, vertical, and diagonal. This mechanic does not cascade.
 
 ![image](https://github.com/RobinfWu/Boop/assets/8204576/e5834b9a-2163-44e0-b48f-e5d2e80c3331)
 
@@ -20,6 +20,8 @@ When three kittens of the same color end up in a row (horizontal, vertical, or d
 
 Cats can do anything a kitten can do except that a kitten cannot boop a cat. Conversely, a cat can boop other kittens and other cats.
 
-Winning condition: Getting three Cats in a row. Or, getting all eight cats on the board.
+**Winning condition:** Getting three Cats in a row. Or, getting all eight cats on the board.
+
+Each player will always have eight active pieces of their respective color (Orange or Grey).
 
 
